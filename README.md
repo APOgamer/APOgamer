@@ -14,7 +14,7 @@
 - 💻 I'm proficient in **Java** and experienced in creating plugins for **Minecraft 1.21**.
 - 🔒 Completed cybersecurity courses on **Coursera** and have a solid understanding of **subnetting** concepts.
 - 🏢 Worked with companies like **KBR**, helping them create web app prototypes for their business needs.
-- 📚 Fluent in **advanced technical English**, having completed studies at **ICPNA** and **Británico**.
+- 📚 Fluent in **advanced technical English**, having completed studies at **Peruvian North American Cultural Institute (ICPNA)** and at **Peruvian British Cultural Association (Britanico)**.
 - 🧠 Strong foundation in **mathematical fundamentals**, critical for building scalable and efficient solutions.
 
 ## 🔧 Technologies & Tools
